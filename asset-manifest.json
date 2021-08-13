@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/CV-Wanted-Style/static/css/main.2be1ffa9.chunk.css",
+    "main.js": "/CV-Wanted-Style/static/js/main.7a6b0aa9.chunk.js",
+    "main.js.map": "/CV-Wanted-Style/static/js/main.7a6b0aa9.chunk.js.map",
+    "runtime-main.js": "/CV-Wanted-Style/static/js/runtime-main.d1e60167.js",
+    "runtime-main.js.map": "/CV-Wanted-Style/static/js/runtime-main.d1e60167.js.map",
+    "static/css/2.34b29efe.chunk.css": "/CV-Wanted-Style/static/css/2.34b29efe.chunk.css",
+    "static/js/2.af6cc968.chunk.js": "/CV-Wanted-Style/static/js/2.af6cc968.chunk.js",
+    "static/js/2.af6cc968.chunk.js.map": "/CV-Wanted-Style/static/js/2.af6cc968.chunk.js.map",
+    "static/js/3.6ae6f905.chunk.js": "/CV-Wanted-Style/static/js/3.6ae6f905.chunk.js",
+    "static/js/3.6ae6f905.chunk.js.map": "/CV-Wanted-Style/static/js/3.6ae6f905.chunk.js.map",
+    "index.html": "/CV-Wanted-Style/index.html",
+    "static/css/2.34b29efe.chunk.css.map": "/CV-Wanted-Style/static/css/2.34b29efe.chunk.css.map",
+    "static/css/main.2be1ffa9.chunk.css.map": "/CV-Wanted-Style/static/css/main.2be1ffa9.chunk.css.map",
+    "static/js/2.af6cc968.chunk.js.LICENSE.txt": "/CV-Wanted-Style/static/js/2.af6cc968.chunk.js.LICENSE.txt",
+    "static/media/AppliMeteo.cbb13389.jpg": "/CV-Wanted-Style/static/media/AppliMeteo.cbb13389.jpg",
+    "static/media/Background.05378aa7.jpg": "/CV-Wanted-Style/static/media/Background.05378aa7.jpg",
+    "static/media/DivineStay.d6ab4e63.jpg": "/CV-Wanted-Style/static/media/DivineStay.d6ab4e63.jpg",
+    "static/media/PersoList.9c377837.jpg": "/CV-Wanted-Style/static/media/PersoList.9c377837.jpg",
+    "static/media/PhotoProfil4.53eec1a5.jpg": "/CV-Wanted-Style/static/media/PhotoProfil4.53eec1a5.jpg",
+    "static/media/Revolver4.9585f9bc.png": "/CV-Wanted-Style/static/media/Revolver4.9585f9bc.png",
+    "static/media/Revolver5.e3f8c1b9.png": "/CV-Wanted-Style/static/media/Revolver5.e3f8c1b9.png",
+    "static/media/App.css": "/CV-Wanted-Style/static/media/saddlebag-webfont.ab497921.woff",
+    "static/media/github1.d7377c33.png": "/CV-Wanted-Style/static/media/github1.d7377c33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e60167.js",
+    "static/css/2.34b29efe.chunk.css",
+    "static/js/2.af6cc968.chunk.js",
+    "static/css/main.2be1ffa9.chunk.css",
+    "static/js/main.7a6b0aa9.chunk.js"
+  ]
+}
