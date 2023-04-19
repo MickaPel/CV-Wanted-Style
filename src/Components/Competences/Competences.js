@@ -19,7 +19,7 @@ const useStyles = makeStyles({
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        fontSize: "6vw",
+        fontSize: "4vw",
         color: "#402218",
         transition: "text-decoration-color 1s",
         textDecoration: "underline 0.1em rgba(255, 255, 255, 0)",
@@ -62,7 +62,7 @@ function Competences() {
             justifyContent="center"
             alignItems="center"
             >
-                <Typography className={classes.text}>Crimes:</Typography>
+                <Typography className={classes.text}>Personality aspects:</Typography>
         </Grid>
         <Grid
             container
@@ -72,21 +72,8 @@ function Competences() {
             className={classes.grid}
             >
                 <div className="Competences">
-                    <p>-Javascript:&nbsp;</p>
+                    <p>-Inteligent:&nbsp;</p>
                     <img src={Star} alt="star" className="img"/>
-                    <img src={Star} alt="star" className="img"/>
-                    <img src={Star} alt="star" className="img"/>
-                </div>
-        </Grid>
-        <Grid
-            container
-            direction="row"
-            justifyContent="flex-start"
-            alignItems="center"
-            className={classes.grid}
-            >
-                <div className="Competences">
-                    <p>-React.js:&nbsp;</p>
                     <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>
@@ -101,21 +88,8 @@ function Competences() {
             className={classes.grid}
             >
                 <div className="Competences">
-                    <p>-CSS3:&nbsp;</p>
+                    <p>-Manipulator:&nbsp;</p>
                     <img src={Star} alt="star" className="img"/>
-                    <img src={Star} alt="star" className="img"/>
-                    <img src={Star} alt="star" className="img"/>
-                </div>
-        </Grid>
-        <Grid
-            container
-            direction="row"
-            justifyContent="flex-start"
-            alignItems="center"
-            className={classes.grid}
-            >
-                <div className="Competences">
-                    <p>-HTML5:&nbsp;</p>
                     <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>
@@ -130,7 +104,9 @@ function Competences() {
             className={classes.grid}
             >
                 <div className="Competences">
-                    <p>-Redux:&nbsp;</p>
+                    <p>-Leadership:&nbsp;</p>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>
@@ -144,7 +120,105 @@ function Competences() {
             className={classes.grid}
             >
                 <div className="Competences">
-                    <p>-Git:&nbsp;</p>
+                    <p>-Racism:&nbsp;</p>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                </div>
+        </Grid>
+        <Grid
+            container
+            direction="row"
+            justifyContent="flex-start"
+            alignItems="center"
+            className={classes.grid}
+            >
+                <div className="Competences">
+                    <p>-Charismatic:&nbsp;</p>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                </div>
+        </Grid>
+        <Grid
+            container
+            direction="row"
+            justifyContent="flex-start"
+            alignItems="center"
+            className={classes.grid}
+            >
+                <div className="Competences">
+                    <p>-Vulgarity:&nbsp;</p>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                </div>
+        </Grid>
+        <Grid
+            container
+            direction="row"
+            justifyContent="flex-start"
+            alignItems="center"
+            className={classes.grid}
+            >
+                <div className="Competences">
+                    <p>-Xenophobic:&nbsp;</p>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                </div>
+        </Grid>
+        <Grid
+            container
+            direction="row"
+            justifyContent="flex-start"
+            alignItems="center"
+            className={classes.grid}
+            >
+                <div className="Competences">
+                    <p>-Machiavelic:&nbsp;</p>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                </div>
+        </Grid>
+        <Grid
+            container
+            direction="row"
+            justifyContent="flex-start"
+            alignItems="center"
+            className={classes.grid}
+            >
+                <div className="Competences">
+                    <p>-Anti-Semite:&nbsp;</p>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
+                </div>
+        </Grid>
+        <Grid
+            container
+            direction="row"
+            justifyContent="flex-start"
+            alignItems="center"
+            className={classes.grid}
+            >
+                <div className="Competences">
+                    <p>-Homophobic:&nbsp;</p>
+                    <img src={Star} alt="star" className="img"/>
+                    <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>
                     <img src={Star} alt="star" className="img"/>

@@ -64,7 +64,7 @@ function Contact() {
                 <img 
                     src={GithubLogo} 
                     alt="github" 
-                    onClick={() => window.open("https://github.com/Mitch-Aries")}
+                    onClick={() => window.open("https://github.com/MickaPel")}
                     className={classes.img}/>
                 <img 
                     src={Linkedin} 

@@ -96,16 +96,7 @@ function FirstInformations() {
                 alignItems="center"
                 >
                     <Typography className={classes.text2}>Name:&nbsp;</Typography>
-                    <Typography className={classes.text3}>Mykhaylo Pelykh</Typography>
-            </Grid>
-            <Grid
-                container
-                direction="row"
-                justifyContent="center"
-                alignItems="center"
-                >
-                    <Typography className={classes.text2}>Know as:&nbsp;</Typography>
-                    <Typography className={classes.text3}>Front-End Developper</Typography>
+                    <Typography className={classes.text3}>Eric Cartman</Typography>
             </Grid>
         </div>
     )

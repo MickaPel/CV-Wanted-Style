@@ -8,7 +8,7 @@ import Header from './Components/Header/Header';
 import ProfilePhoto from "./Components/ProfilePhoto/ProfilePhoto";
 import FirstInformations from './Components/FirstInformations/FirstInformations';
 import Competences from './Components/Competences/Competences';
-import Travaux from './Components/Travaux/Travaux';
+import Travaux from './Components/Charges/Charges';
 import Contact from './Components/Contact/Contact';
 
 const useStyles = makeStyles({

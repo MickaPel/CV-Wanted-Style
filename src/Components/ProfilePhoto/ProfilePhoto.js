@@ -1,5 +1,5 @@
 import React from 'react';
-import PhotoProfil from "../Images/PhotoProfil4.jpg";
+import PhotoProfil from "../Images/Eric.jpg";
 import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
 
@@ -9,8 +9,7 @@ const useStyles = makeStyles({
         justifyContent: "center",
         alignItems: "center",
         margin:"auto",
-        height: "27vw",
-        width: "20vw",
+        width: "30vw",
         transition: "transform .2s",
         "&:hover": {
             transform: "scale(1.1)"

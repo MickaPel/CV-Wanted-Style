@@ -35,10 +35,12 @@ const useStyles = makeStyles({
     text2: {
         fontFamily: "saddlebag-webfont",
         display: "flex",
+        flexDirection: 'column',
         justifyContent: "center",
         alignItems: "center",
-        fontSize: "3vw",
-        color: "#402218"
+        fontSize: "2vw",
+        color: "#402218",
+        listStyleType: "none"
     },
     slider: {
         width: "60%",
@@ -57,20 +59,6 @@ function Travaux() {
         window.open("https://meteo-react.vercel.app/admin/dashboard");
     }
 
-    const slider = (
-        <AutoplaySlider
-            play={true}
-            cancelOnInteraction={false} // should stop playing on user interaction
-            interval={6000}
-            className={classes.slider}
-            bullets={false}
-        >
-            <div data-src={AppliMeteo} onClick={onClick}/>
-            <div data-src={DivineStay} onClick={() => window.open("https://divinestay-b4eee.firebaseapp.com/")}/>
-            <div data-src={PersoList} onClick={() => window.open("https://newpersolist.firebaseapp.com/")}/>
-        </AutoplaySlider>
-    );
-
     return (
         <div className={classes.root}>
         <Grid
@@ -81,7 +69,27 @@ function Travaux() {
             >
                 <Typography className={classes.text}>Charges:</Typography>
         </Grid>
-            {slider}
+        <ul className={classes.text2}>
+            <li>Attempted genocide</li>
+            <li>Terrorism</li>
+            <li>Serial murders</li>
+            <li>Forced canibalism</li>
+            <li>Rape</li>
+            <li>Child pornography</li>
+            <li>Forced suicide</li>
+            <li>Drug possession</li>
+            <li>Armed robbery</li>
+            <li>Kidnapping</li>
+            <li>Forced mutilation</li>
+            <li>Embezzlement</li>
+            <li>Racist actions</li>
+            <li>Prostitution</li>
+            <li>Blackmail</li>
+            <li>Vandalism</li>
+            <li>Child abuse</li>
+            <li>Animal abuse</li>
+            <li>Smuggling</li>
+        </ul>
         </div>
     )
 }
